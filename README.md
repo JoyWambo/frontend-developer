@@ -1,4 +1,6 @@
-# 💻 JoyWambui Frontend Developer Portfolio
+# Joy Wambui Frontend Developer Portfolio
+
+![Portfolio Screenshot](WebScreenshot_11-11-2025.jpeg)
 
 **JoyWambui** is a modern, responsive portfolio website built with **HTML** and **CSS**. It showcases frontend development skills with a clean design, animations, and smooth user experience.
 
